@@ -2,7 +2,7 @@
 
 An end-to-end IPL analytics and match-prediction platform combining machine learning and Power BI, built on IPL ball-by-ball and match data from 2008–2024 (1,092 matches, 260,920 deliveries).
 
-![Dashboard Overview](dashboard/screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard/dashboard_overview.png)
 
 ---
 
@@ -112,19 +112,19 @@ The Power BI dashboard can be opened with Power BI Desktop: `dashboard/IPL_Dashb
 
 **Overview** — team-wise wins, toss decision split, orange/purple cap leaders, season totals, navigation to sub-pages
 
-![Dashboard Overview](dashboard/screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard/dashboard_overview.png)
 
 **Player Analysis** — top run scorers and a strike-rate vs. batting-average scatter plot colored by K-Means cluster
 
-![Player Analysis](dashboard/screenshots/player_analysis.png)
+![Player Analysis](dashboard/player_analysis.png)
 
 **Venue Analysis** — matches and chasing wins per venue, plus the win-probability-vs-runs-left curve from the XGBoost model
 
-![Venue Analysis](dashboard/screenshots/venue_analysis.png)
+![Venue Analysis](dashboard/venue_analysis.png)
 
 **Head to Head** — total matches and head-to-head wins by team, and match-share breakdown by winner
 
-![Head to Head](dashboard/screenshots/head_to_head.png)
+![Head to Head](dashboard/head_to_head.png)
 
 ---
 
